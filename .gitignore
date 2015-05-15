@@ -57,5 +57,5 @@ docs/_build/
 target/
 
 # Geoip
-data/data/GeoLite2-City.mmdb
-data/data/GeoLite2-City.mmdb.gz
+data/GeoLite2-City.mmdb
+data/GeoLite2-City.mmdb.gz
