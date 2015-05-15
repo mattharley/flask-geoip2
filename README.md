@@ -26,3 +26,6 @@ pip install -r requirements.txt
 ```
 python app.py
 ```
+
+## Credits
+This product includes GeoLite2 data created by MaxMind, available from [http://www.maxmind.com](http://www.maxmind.com])
