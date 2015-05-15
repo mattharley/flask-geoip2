@@ -55,3 +55,7 @@ docs/_build/
 
 # PyBuilder
 target/
+
+# Geoip
+data/data/GeoLite2-City.mmdb
+data/data/GeoLite2-City.mmdb.gz
