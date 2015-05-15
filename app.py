@@ -69,7 +69,7 @@ def get_db_reader():
     return reader
 
 @app.route('/geoip/<ip_address>')
-def hello_world(ip_address=''):
+def geoip(ip_address=''):
     ip = ip_address
     app.logger.info("looking up IP address: {}".format(ip))
     geoip_reader = get_db_reader()
